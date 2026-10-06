@@ -1,0 +1,6 @@
+{
+  "name": "CogniLearn - Tự Học Thang Bloom & Flashcard",
+  "description": "Nền tảng tự học tối giản cho sinh viên với Flashcards lặp lại ngắt quãng, trắc nghiệm 6 mức thang Bloom, biểu đồ tiến độ trực quan, nhắc nhở lịch trình thông minh và đồng bộ đa thiết bị ngoại tuyến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
